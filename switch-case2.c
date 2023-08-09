@@ -5,7 +5,7 @@ main()
 		
 		printf("welcome to zometo\n");
 		printf(" 1 for gujrati food\n");
-		printf(" 2 for chienis food\n");
+		printf(" 2 for chinese food\n");
 		printf(" 3 for punjabi food\n\n");
 		printf(" enter your choice = ");
 		scanf("%d",&c);
@@ -25,7 +25,7 @@ main()
 						case 1 : printf("order for namcin\n");
 							     break;
 						case 2 : printf(" 1 for butter roti\n");
-								 printf(" 2 for clean roti\n");
+								 printf(" 2 for simple roti\n");
 								 printf(" enter your choice = ");
 								 scanf("%d",&c);
 								 
@@ -44,9 +44,9 @@ main()
 					break;
 					
 				
-			case 2 :printf("welcome to chaines food\n");
+			case 2 :printf("welcome to chinese food\n");
 				    printf("1 for nudels\n");
-				    printf("2 for manchuriym\n");
+				    printf("2 for manchurian\n");
 				   	printf("enter number =");
 				   	scanf("%d",&c);
 				   	
